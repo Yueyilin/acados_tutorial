@@ -1,0 +1,18 @@
+#ifndef TARGET_X64_INTEL_HASWELL
+#define TARGET_X64_INTEL_HASWELL
+#endif
+#ifndef TARGET_NEED_FEATURE_AVX2
+#define TARGET_NEED_FEATURE_AVX2
+#endif
+#ifndef TARGET_NEED_FEATURE_FMA
+#define TARGET_NEED_FEATURE_FMA
+#endif
+#ifndef LA_HIGH_PERFORMANCE
+#define LA_HIGH_PERFORMANCE
+#endif
+#ifndef MF_PANELMAJ
+#define MF_PANELMAJ
+#endif
+#ifndef EXT_DEP
+#define EXT_DEP
+#endif
